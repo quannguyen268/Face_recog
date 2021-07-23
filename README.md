@@ -1,6 +1,6 @@
 # FaceRecog_2
-Nhận diện khuôn mặt bằng Mediapipe API và Facenet!
+Face Recognition with Mediapipe API and Facenet.
 
-chạy file src/test.py với model lấy ở folder models, / <br>
-CLASSIFIER_PATH lấy file.pkl<br>
-FACENET_MODEL_PATH lấy file.tflite<br>
+run file src/test.py with model in folder models, / <br>
+CLASSIFIER_PATH take file.pkl<br>
+FACENET_MODEL_PATH take file.tflite<br>
